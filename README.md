@@ -59,7 +59,7 @@ Start the server
 
 ## Author
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+Crafted with 🤍 by [@Azhar-lone](https://github.com/Azhar-lone)
 
 ## License
 
