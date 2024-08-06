@@ -36,25 +36,25 @@ I've been creating dashboard UIs at work and for my personal projects. I always 
 Clone the project
 
 ```bash
-  git clone https://github.com/satnaing/shadcn-admin.git
+  git clone https://github.com/Azhar-lone/Shadcn-admin
 ```
 
 Go to the project directory
 
 ```bash
-  cd shadcn-admin
+  cd Shadcn-admin
 ```
 
 Install dependencies
 
 ```bash
-  pnpm install
+  npm install
 ```
 
 Start the server
 
 ```bash
-  pnpm run dev
+  npm run dev
 ```
 
 ## Author
